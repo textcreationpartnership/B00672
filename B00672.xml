@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Confession generale de la vraye foy &amp; religion Chrestienne selon la parole de Dieu &amp; les actes de nostre Parlement, signée par le roy &amp; ceux de son conseil &amp; maison, &amp; plusieurs autres, a la gloire de Dieu &amp; edification de tous..</title>
+            <author>Church of Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1603</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00672</idno>
+            <idno type="STC">STC 22030.7</idno>
+            <idno type="STC">ESTC S95141</idno>
+            <idno type="EEBO-CITATION">56572937</idno>
+            <idno type="OCLC">ocm 56572937</idno>
+            <idno type="VID">181039</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00672)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181039)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2155:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Confession generale de la vraye foy &amp; religion Chrestienne selon la parole de Dieu &amp; les actes de nostre Parlement, signée par le roy &amp; ceux de son conseil &amp; maison, &amp; plusieurs autres, a la gloire de Dieu &amp; edification de tous..</title>
+                  <author>Church of Scotland.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>par commandement du Roy,</publisher>
+                  <pubPlace>Imprimée nouuellement â Londres :</pubPlace>
+                  <date>le premier de Juin. 1603..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Probably printed in France--Cf. STC (2nd ed.).</note>
+                  <note>Signatures: a⁴ B².</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Catechisms --  Early works to 1800.</term>
+               <term>Scotland --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:181039:1"/>
+            <!-- PDF PAGE 86 -->
+            <pb facs="tcp:181039:1"/>
+            <!-- PDF PAGE 86 -->
+            <p>Confeſsion genera<g ref="char:EOLhyphen"/>le de la vraye Foy &amp; Reli<g ref="char:EOLhyphen"/>gion Chreſtienne ſelon la Parole de Dieu &amp; les actes de noſtre Parlement, ſignée par le Roy &amp; ceux de ſon Conſeil &amp; Maiſon, &amp; plu<g ref="char:EOLhyphen"/>ſieurs autres, à la gloire de Dieu &amp; edification de tous.</p>
+            <p>Imprimée nouuellement â Londres par commandement du Roy le premier de Iuin. 1603.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:181039:2"/>
+            <!-- PDF PAGE 87 -->
+            <pb n="3" facs="tcp:181039:2"/>
+            <!-- PDF PAGE 87 -->
+            <head>CONFESSION GENERA<g ref="char:EOLhyphen"/>LE DE LA VRAIE FOY ET RE<g ref="char:EOLhyphen"/>ligion Chreſtienne ſelon la Parole de Dieu &amp; les actes de noſtre Par<g ref="char:EOLhyphen"/>lement, ſignée par le Roy &amp; ceux de ſon conſeil &amp; maiſon, &amp; plu<g ref="char:EOLhyphen"/>ſieurs autres, à la gloire de Dieu &amp; edification de tous.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Ovs tous en general &amp; chacun de nous en particulier ſous-ſignez, proteſtons qu'apres lon gue &amp; deuë examina<g ref="char:EOLhyphen"/>tion denos conſçiences en matiere de vraye &amp; fauſſe religion, ſommes maintenant entierement reſolus de la verïté, par la Parole &amp; Eſprit de DIEV: &amp; partant nous croyons en nos coeurs, &amp; confeſſons de nos bou<g ref="char:EOLhyphen"/>ches; ſignons de nos mains, &amp; affer<g ref="char:EOLhyphen"/>mons conſtamment deuant Dieu &amp;
+<pb n="4" facs="tcp:181039:3"/>
+               <!-- PDF PAGE 88 -->
+tout le monde, que c'eſt icy la ſeule &amp; vraye Foy &amp; Religion Chreſtien<g ref="char:EOLhyphen"/>ne, plaiſante à Dieu &amp; donnant ſa<g ref="char:EOLhyphen"/>lut à l'homme: la quelle eſt mainte<g ref="char:EOLhyphen"/>nant par la grace de Dieu reuellée au monde par la predication du Sainct Euangile, &amp; eſt reçeuë, creuë &amp; main<g ref="char:EOLhyphen"/>tenuë par pluſieurs notables Egliſes &amp; Royaumes: mais principalement par la Majeſté du Roy, &amp; les Sei<g ref="char:EOLhyphen"/>gneurs qui ſont ſoubs luy, comme la verité de Dieu eternelle &amp; ſeul fon<g ref="char:EOLhyphen"/>dement de noſtre ſalut; comme plus particulierement il eſt porté par la confeſſion de noſtre Foy, eſtablie &amp; publicquement confirmees par plu<g ref="char:EOLhyphen"/>ſieurs actes de noſtre Parlement, &amp; dont longuement ſa Majeſté a faict profeſſion publicque, enſemble tout le corps de ce Royaume, tant par le peuple des villes qu'aux champs.</p>
+            <p>A laquelle Confeſſion &amp; forme de Religion nos conſçiences ſ'ac<g ref="char:EOLhyphen"/>cordent de tous poincts, comme à la vraye &amp; certaine Verité de Dieu, fondée ſeulement ſur la Parolle eſ<g ref="char:EOLhyphen"/>crite.
+<pb n="5" facs="tcp:181039:3"/>
+               <!-- PDF PAGE 88 -->
+Et pourtant nous abhorrons &amp; deteſtons toute eſpece de religion &amp; doctrine contraire, mais princi<g ref="char:EOLhyphen"/>pallement toute eſpece de papiſme tant en general qu'en particulier, comme dés à preſent elle eſt dam<g ref="char:EOLhyphen"/>née &amp; confutée par la Parolle de Dieu &amp; les Egliſes qui ſont ſoubs no<g ref="char:EOLhyphen"/>ſtre protection.</p>
+            <p>Mais ſpecialement nous deteſtons &amp; refuſons l'authorité de l'Ante<g ref="char:EOLhyphen"/>chriſt romain ſur l'Eſcriture de Dieu, ſur l'Egliſe, le Magiſtrat Ciuil, &amp; les Conſciences des hommes, toutes ſes Loix tyranniques faites ſur choſes indifferentes, contre la liberté Chre<g ref="char:EOLhyphen"/>ſtienne, ſa doctrine eronnée con<g ref="char:EOLhyphen"/>tre la ſuffiſance de la Parolle eſcrite, la perfection de la Loy, l'office de Chriſt &amp; ſon Sainct Euangile, ſa doctrine corrompuë concernant le peché originel, noſtre naturelle im<g ref="char:EOLhyphen"/>puiſſance &amp; rebellion à la Loy de Dieu, ſes blaſphemes contre noſtre iuſtification par la Foy ſeule, noſtre imparfaicte ſatisfaction &amp; obeiſſan<g ref="char:EOLhyphen"/>ce
+<pb n="6" facs="tcp:181039:4"/>
+               <!-- PDF PAGE 89 -->
+à la Loy, la nature, nombre &amp; vſage des Saincts Sacrements, nous deteſtons ces cinq baſtards Sacre<g ref="char:EOLhyphen"/>ments, auec toutes ſes ceremonies accouſtumées &amp; fauſſe doctrine ad<g ref="char:EOLhyphen"/>iouſtée à l'adminiſtration des vrais Sacrements ſans la Parolle de Dieu, ſon iugement Cruel contre les en<g ref="char:EOLhyphen"/>fans decedans ſans le Sacrement, la neceſſité abſoluë du Bapteſme, ſon opinion pleine de blaſphemes tou<g ref="char:EOLhyphen"/>chant la Tranſſubſtantiation ou pre<g ref="char:EOLhyphen"/>ſence reelle du corps de Chriſt au Sacrement &amp; à la reception d'iceluy par les meſchans, ſa diſpenſation des voeux ſolemnels, pariurements &amp; de<g ref="char:EOLhyphen"/>grez de Mariage deffendus en la pa<g ref="char:EOLhyphen"/>rolle, ſa cruaute enuers les innocens diuorſez.</p>
+            <p>Nous abhorrons ſa Meſſe diabo<g ref="char:EOLhyphen"/>lique, ſa Prebſtriſe pleine de blaſphe<g ref="char:EOLhyphen"/>mes, ſes profanes ſacrifices pour les morts &amp; pour les viuans, ſa canoni<g ref="char:EOLhyphen"/>ſation de tant d'hommes que fem<g ref="char:EOLhyphen"/>mes, l'Inuocation des Anges &amp; Saincts deceddez, l'Adoration des
+<pb n="7" facs="tcp:181039:4"/>
+               <!-- PDF PAGE 89 -->
+Images, Reliques &amp; Croix, Dedica<g ref="char:EOLhyphen"/>tion de Temples, Autels, Iours, voeux aux creatures, ſon Purgatoire, Prier pour les morts, la Priere en langage incogneu, ſa Proceſſion &amp; Letanie deteſtable, ſa multitude d'Aduocats &amp; Mediateurs, auec ſa multitude d'Ordres, ſa Confeſſion oriculaire, ſa Repentance deſeſperée &amp; incertaine, ſa Foy generale &amp; douteuſe, ſa Satis<g ref="char:EOLhyphen"/>faction des hommes pour leurs pe<g ref="char:EOLhyphen"/>chez, ſa Iuſtification par les oeuures, <hi>Hic opus operatum,</hi> oeuures de Supere<g ref="char:EOLhyphen"/>rogation, Merites &amp; Pardons, Pere<g ref="char:EOLhyphen"/>grinations &amp; Stations.</p>
+            <p>Nous deteſtons ſon Eauë beniſte profane, Baptiſation de Cloches, Coniurements d'Eſprits, Chima<g ref="char:EOLhyphen"/>grées, Signes de Croix, Oignemens, Coniurements, ſa Canoniſation des Creatures de Dieu auec l'opinion ſuperſtitieuſe qui y eſt adiouſtée, ſa Monarchie temporelle, ſa maudite Hierarchie, ſes trois Voeux ſolemnels auec ſes Couronnes &amp; Raiſements de toutes ſortes, ſes ſangla<g ref="char:cmbAbbrStroke">̄</g>ts &amp; eron<g ref="char:EOLhyphen"/>nez
+<pb n="8" facs="tcp:181039:5"/>
+               <!-- PDF PAGE 90 -->
+Decrets faicts au Concile de Trente, auec to us ceux qui ont ſoubs ſigne &amp; approuué ceſte bande cruel<g ref="char:EOLhyphen"/>le &amp; ſanglante coniurée contre l'E<g ref="char:EOLhyphen"/>gliſe de Dieu: &amp; finalement nous de<g ref="char:EOLhyphen"/>teſtons toutes ſes vaines Allego<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies, Ceremonies, Signes &amp; Traditions, qu'il a fait gliſſer en l'Egliſe, ſans ou contre la Parolle de Dieu &amp; doctrine de l'Egliſe Reformée.</p>
+            <p>A laquelle nous nous ioignons vo<g ref="char:EOLhyphen"/>lontairement en doctrine foy reli<g ref="char:EOLhyphen"/>gion, diſcipline, &amp; vſage des ſaincts Sacrements, comme vrays membres d'icelle auec Chriſt noſtre Chef. Pro<g ref="char:EOLhyphen"/>mertant &amp; iurant par le grand Nom de noſtre Seigneur, que nous conti<g ref="char:EOLhyphen"/>nuerons en l'obeiſſance de la doctri<g ref="char:EOLhyphen"/>ne &amp; diſcipline de ceſte Egliſe, &amp; la deffendrons ſelon noſtre vaccation &amp; puiſſance tous les iours de nos vies ſoubs les peines co<g ref="char:cmbAbbrStroke">̄</g>tenuës en la Loi, &amp; danger tant du corps que de l'A<g ref="char:EOLhyphen"/>me au grand iour du Iugement.</p>
+            <p>Et d'autant que pluſieurs eſtans pouſſez par Satan &amp; l'Antechriſt
+<pb n="9" facs="tcp:181039:5"/>
+               <!-- PDF PAGE 90 -->
+romain, de promettre iurer &amp; ſigner, &amp; pour quelque temps vſer des ſaincts Sacrements en l'Egliſe frau<g ref="char:EOLhyphen"/>duleuſement &amp; contre leurs con<g ref="char:EOLhyphen"/>ſciences: eſperant par ce moyen pre<g ref="char:EOLhyphen"/>meirement ſoubs vn pretexte eſtran<g ref="char:EOLhyphen"/>ge de religion, corrompre &amp; ſubuer<g ref="char:EOLhyphen"/>tir ſecrettement la vraye Religion de Dieu en l'Egliſe, pour puis apres quand ils auroyent temps à propos deuenir ennemis ouuerts &amp; perſecu<g ref="char:EOLhyphen"/>teurs d'icelle, ſoubs la vaine eſperan<g ref="char:EOLhyphen"/>ce de la diſpenſation du Pape, inuen<g ref="char:EOLhyphen"/>tée contre la Parolle de Dieu, à ſa grande confuſion &amp; à leur double condamnation au iour de noſtre Sei<g ref="char:EOLhyphen"/>gneur Ieſus.</p>
+            <p>Nous doncques deſireux d'oſter tout ſoupçon &amp; hypocriſie, &amp; toutes telles fuites deuant Dieu &amp; ſon Egli<g ref="char:EOLhyphen"/>ſe; Proteſtons &amp; appellons le Crea<g ref="char:EOLhyphen"/>teur de tous coeurs à teſmoing que nos coeurs &amp; volontez accordent vnanimement à ceſte noſtre Confeſ<g ref="char:EOLhyphen"/>ſion, Promeſſe, Voeu &amp; Signature: de ſorte que nous n'y ſommes point
+<pb n="10" facs="tcp:181039:6"/>
+               <!-- PDF PAGE 91 -->
+pouſſez pour aucun reſpect mondain mais ſommes ſeulement perſuadez en nos conſçiences par la cognoiſ<g ref="char:EOLhyphen"/>ſance &amp; amour de la vraye Religion de Dieu, imprimée en nos coeurs par le Sainct Eſprit; ainſi que nous auons à luy reſpondre au Iour que tous les ſecrets des coeurs luy ſeront ouuerts.</p>
+            <p>Et d'autant que nous voyons que le repos &amp; ſtabilité de noſtre Reli<g ref="char:EOLhyphen"/>gion &amp; Egliſe dépend de la ſeureté &amp; bon gouuernement de la Majeſté du Roy, comme d'vn inſtrument confortable de la faueur de Dieu octroyée à ce pays pour le maintien de ſon Egliſe en l'adminiſtration de Iuſtice parmi nous: nous proteſtons &amp; promettons de tous nos coeurs, que nous deffendrons &amp; maintien<g ref="char:EOLhyphen"/>drons ſa perſonne &amp; authorité, auec le gage de nos corps, biens &amp; moiens en la defence de l'Euangile de Chriſt, liberté de noſtre pays, adminiſtra<g ref="char:EOLhyphen"/>tion de Iuſtice &amp; puniſſement des meſchans, contre tous ennemis tant dedans que dehors ce Royaume.
+<pb n="11" facs="tcp:181039:6"/>
+               <!-- PDF PAGE 91 -->
+Et ainſi que nous prions noſtre Dieu nous eſtre puiſſant &amp; miſericordie ux deffenſeur au iour de noſtre mort &amp; aduenement de noſtre Seigneur Ie<g ref="char:EOLhyphen"/>ſus Chriſt, auquel auec le Pere &amp; le Sainct Eſprit ſoit honneur &amp; gloire eternelle, Amen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
